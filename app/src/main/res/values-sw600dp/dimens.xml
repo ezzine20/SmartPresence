@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Dimensions générales -->
+    <dimen name="margin_small">16dp</dimen>
+    <dimen name="margin_medium">24dp</dimen>
+    <dimen name="margin_large">32dp</dimen>
+    
+    <!-- Tailles de texte -->
+    <dimen name="text_size_small">14sp</dimen>
+    <dimen name="text_size_medium">18sp</dimen>
+    <dimen name="text_size_large">24sp</dimen>
+    <dimen name="text_size_xlarge">32sp</dimen>
+    
+    <!-- Tailles de composants -->
+    <dimen name="button_height">64dp</dimen>
+    <dimen name="input_height">56dp</dimen>
+    <dimen name="card_corner_radius">24dp</dimen>
+    <dimen name="card_elevation">8dp</dimen>
+    
+    <!-- Tailles d'icônes -->
+    <dimen name="icon_size_small">32dp</dimen>
+    <dimen name="icon_size_medium">64dp</dimen>
+    <dimen name="icon_size_large">96dp</dimen>
+</resources> 

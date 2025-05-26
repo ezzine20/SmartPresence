@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="36dp"
+    android:height="36dp"
+    android:viewportWidth="36"
+    android:viewportHeight="36">
+    <group>
+        <!-- Grand cercle (tête principale) -->
+        <path
+            android:fillColor="#FFFFFFFF"
+            android:pathData="M12,14a4,4 0 1,0 0,-8a4,4 0 1,0 0,8z"/>
+        <!-- Petit cercle (tête secondaire) -->
+        <path
+            android:fillColor="#FFFFFFFF"
+            android:pathData="M22,11a3,3 0 1,0 0,-6a3,3 0 1,0 0,6z"/>
+        <!-- Corps principal -->
+        <path
+            android:fillColor="#FFFFFFFF"
+            android:pathData="M6,26c0,-4 12,-4 12,0v2H6v-2z"/>
+        <!-- Corps secondaire -->
+        <path
+            android:fillColor="#FFFFFFFF"
+            android:pathData="M18,22c0,-2 8,-2 8,0v2h-8v-2z"/>
+    </group>
+</vector> 

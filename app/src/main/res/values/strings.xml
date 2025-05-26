@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">EMSI SmartPresence</string>
+    <string name="login">Connexion</string>
+    <string name="register">Inscription</string>
+    <string name="email">Email</string>
+    <string name="password">Mot de passe</string>
+    <string name="full_name">Nom complet</string>
+    <string name="back_to_login">Retour à la connexion</string>
+    <string name="logo_user">Mr/Mme</string>
+    <string name="welcome_message">Bienvenue</string>
+    <string name="button_tasks">Tâches</string>
+
+</resources>
